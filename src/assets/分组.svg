@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1027px" height="12px" viewBox="0 0 1027 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-450.000000, -157.000000)" fill="#55DDE1" fill-rule="nonzero">
+            <g id="Group" transform="translate(450.000000, 157.000000)">
+                <polygon id="Shape" points="46 3 18.2416731 3 12 10 39.7583269 10"></polygon>
+                <polygon id="Shape-Copy-3" points="77 3 49.2416731 3 43 10 70.7583269 10"></polygon>
+                <polygon id="Shape-Copy-4" points="108 3 80.2416731 3 74 10 101.758327 10"></polygon>
+                <polygon id="Shape" points="1026.585 12 310.190236 12 310.083951 11.8993711 298.2067 0.65408805 0 0.65408805 0 0 298.525552 0 298.631836 0.100628931 310.482517 11.3207547 693.898372 11.3207547 696.495929 12"></polygon>
+                <polygon id="Shape" transform="translate(991.000000, 6.500000) scale(-1, 1) translate(-991.000000, -6.500000) " points="1008 3 980.241673 3 974 10 1001.75833 10"></polygon>
+                <polygon id="Shape-Copy-3" transform="translate(960.000000, 6.500000) scale(-1, 1) translate(-960.000000, -6.500000) " points="977 3 949.241673 3 943 10 970.758327 10"></polygon>
+                <polygon id="Shape-Copy-4" transform="translate(929.000000, 6.500000) scale(-1, 1) translate(-929.000000, -6.500000) " points="946 3 918.241673 3 912 10 939.758327 10"></polygon>
+                <polygon id="Shape" transform="translate(857.000000, 6.000000) scale(-1, 1) translate(-857.000000, -6.000000) " points="1020 12 1004.19024 12 1004.08395 11.8993711 992.2067 0.65408805 694 0.65408805 694 0 992.525552 0 992.631836 0.100628931 1004.48252 11.3207547 1020 11.3207547"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

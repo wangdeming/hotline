@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="555px" height="24px" viewBox="0 0 555 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>顶部线框</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1344.000000, -57.000000)" fill="#55DDE1" fill-rule="nonzero">
+            <g id="顶部线框" transform="translate(1621.500000, 69.000000) scale(-1, 1) translate(-1621.500000, -69.000000) translate(1344.000000, 57.000000)">
+                <polygon id="Shape" points="7 18.6045845 7 17 9.625 17 14.7291667 21.9140401 24 21.9140401 24 24 12.5833333 24"></polygon>
+                <polygon id="Shape" points="6 14.5703422 6.6 14 9 16.2813688 6.68 16.2813688 6.68 19 6 18.3536122"></polygon>
+                <polygon id="Shape" points="0 2.2974359 0 0 6.27979275 0 8 1.7025641 1.72020725 1.7025641 1.72020725 4"></polygon>
+                <polygon id="Shape" points="19 21 14.4638923 21 2 8.62934783 2 2 6.53610771 2 6.53610771 8.62934783"></polygon>
+                <polygon id="Shape" points="548 5.3908046 548 7 545.375 7 540.270833 2.07183908 531 2.07183908 531 0 542.416667 0"></polygon>
+                <polygon id="Shape" points="549 9.42965779 548.4 10 546 7.71863118 548.32 7.71863118 548.32 5 549 5.62737643"></polygon>
+                <polygon id="Shape" points="555 21.7025641 555 24 548.720207 24 547 22.2974359 553.279793 22.2974359 553.279793 20"></polygon>
+                <polygon id="Shape" points="536 3 540.536108 3 553 15.3706522 553 22 548.463892 22 548.463892 15.3706522"></polygon>
+                <polygon id="Rectangle-path" points="20 13 548 13 548 14.08 112.917563 14.08 20 14.08"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

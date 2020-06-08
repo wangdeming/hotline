@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="422px" height="322px" viewBox="0 0 422 322" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>诉求热词外框</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1 1 421 1 421 150.544754 421 321 1 321"></polygon>
+        <filter x="-1.3%" y="-1.7%" width="102.6%" height="103.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.333333333   0 0 0 0 0.866666667   0 0 0 0 0.882352941  0 0 0 0.500537817 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-29.000000, -416.000000)">
+            <g id="诉求热词外框" transform="translate(29.000000, 416.000000)">
+                <g id="Rectangle-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <path stroke-opacity="0.3" stroke="#55DDE1" stroke-width="0.5" d="M1.25,1.25 L1.25,320.75 L420.75,320.75 L420.75,1.25 L1.25,1.25 Z"></path>
+                </g>
+                <polyline id="Path-6" stroke="#55DDE1" points="48.0050502 1.20087805 1.12489682 1.20087805 1.12489682 45.9625848"></polyline>
+                <polyline id="Path-7" stroke="#55DDE1" points="350.232923 1.51384259 420.873173 1.51384259 420.873173 51.5258692"></polyline>
+                <polyline id="Path-8" stroke="#55DDE1" points="420.978058 282.480632 420.978058 321.18586 417.680567 321.18586 377.383034 321.18586"></polyline>
+                <polyline id="Path-9" stroke="#55DDE1" points="69.2139956 320.832082 1.22825031 320.832082 1.22825031 259.531457"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

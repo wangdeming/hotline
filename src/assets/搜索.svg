@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="市直单位综合库" transform="translate(-1160.000000, -211.000000)">
+            <g id="搜索" transform="translate(879.000000, 211.000000)">
+                <g id="Group-5" transform="translate(281.000000, 0.000000)">
+                    <circle id="Oval-2" fill="#1CB6BB" cx="10" cy="10" r="10"></circle>
+                    <g id="Group-4" transform="translate(4.000000, 4.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M8.06558518,8.7642899 C7.21407844,9.46111282 6.12561357,9.87918269 4.93950496,9.87918269 C2.21149169,9.87918269 0,7.66765232 0,4.93959135 C0,2.21153037 2.21149169,0 4.93950496,0 C7.66751823,0 9.87900993,2.21153037 9.87900993,4.93959135 C9.87900993,6.12572069 9.46094736,7.2142046 8.76413663,8.06572624 L11.8548413,11.1564848 C12.0477247,11.3493717 12.0490565,11.6607713 11.8548119,11.8550192 C11.6619122,12.0479223 11.3499592,12.0487213 11.1562897,11.8550486 L8.06558518,8.7642899 Z M5,9 C7.209139,9 9,7.209139 9,5 C9,2.790861 7.209139,1 5,1 C2.790861,1 1,2.790861 1,5 C1,7.209139 2.790861,9 5,9 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

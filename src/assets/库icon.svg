@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>资源库</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="市直单位综合库" transform="translate(-50.000000, -209.000000)" fill="#55DDE1" fill-rule="nonzero">
+            <g id="资源库" transform="translate(50.000000, 209.000000)">
+                <polygon id="Shape" points="13.8455875 8 14.983109 8 15 5.17542577 13 4 13 5.54531832 13.858365 6.02386521"></polygon>
+                <polygon id="Shape" points="3.19524648 6.18299778 3.19524648 5.99087804 4 5.57728072 4 4 2.01865205 5.06743738 2 8 3.18212315 8"></polygon>
+                <polygon id="Shape" points="6 14 6 15.2332599 6.00042735 15.2425782 8.0040501 16 10 15.2639396 10 14.0026912 8.010674 14.7048929"></polygon>
+                <path d="M6,2.5 C6,3.88069926 7.1192657,5 8.5,5 C9.8807343,5 11,3.8807343 11,2.5 C11,1.11930074 9.8807343,0 8.5,0 C7.11930074,0 6,1.1192657 6,2.5 Z" id="Shape"></path>
+                <path d="M0,11.5 C0,12.8807194 1.11928058,14 2.5,14 C3.88071942,14 5,12.8807194 5,11.5 C5,11.5 5,11.5 5,11.5 C5,10.1192806 3.88071942,9 2.5,9 C1.11928058,9 7.51875858e-16,10.1192806 7.51875858e-16,11.5 C7.51875858e-16,11.5 7.51875858e-16,11.5 0,11.5 Z" id="Shape"></path>
+                <path d="M12,11.5 C12,12.8807194 13.1192806,14 14.5,14 C15.8807194,14 17,12.8807194 17,11.5 C17,10.1192806 15.8807194,9 14.5,9 C13.1192806,9 12,10.1192806 12,11.5 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

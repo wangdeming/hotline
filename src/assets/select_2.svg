@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>复选框-选中 copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="热点事件详情-热点来源" transform="translate(-1704.000000, -241.000000)" fill="#55DDE1" fill-rule="nonzero">
+            <g id="复选框-选中-copy-2" transform="translate(1704.000000, 241.000000)">
+                <path d="M0,0 L0,18 L18,18 L18,0 L0,0 Z M13.446,6.7068 L8.3547,11.7981 C8.1918,11.961 7.9668,12.0618 7.7184,12.0618 C7.47,12.0618 7.245,11.961 7.0821,11.7981 L4.536,9.252 C4.3749,9.0909 4.3866,8.8182 4.5621,8.6418 C4.7376,8.4654 5.0112,8.4546 5.1723,8.6157 L7.3998,10.8432 C7.4808,10.9242 7.5933,10.9746 7.7184,10.9746 C7.8426,10.9746 7.9551,10.9242 8.037,10.8432 L12.8097,6.0705 C12.9852,5.895 13.2705,5.895 13.446,6.0705 C13.6215,6.246 13.6215,6.5313 13.446,6.7068 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
